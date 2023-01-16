@@ -5,7 +5,6 @@ public class Main {
 
         int miles = price_ticket / amount;
 
-        System.out.printf("Количество начисленных миль: " + miles);
-
+        System.out.println("Количество начисленных миль: " + miles);
     }
 }
